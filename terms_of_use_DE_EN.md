@@ -14,7 +14,7 @@ Diese Nutzungsbedingungen gelten für die Verwendung der mobilen Anwendung „31
 
 Diese App ist ein privates Projekt und steht in **keiner** rechtlichen oder organisatorischen Verbindung zum Bundesamt für Migration und Flüchtlinge (BAMF) oder anderen staatlichen Stellen. Die App verwendet den offiziellen, öffentlich zugänglichen Fragenkatalog des Tests „Leben in Deutschland", stellt jedoch kein amtliches Prüfungs- oder Vorbereitungsmedium dar.
 
-Die in der App enthaltenen Fragen wurden auf Grundlage des öffentlich zugänglichen BAMF-Fragenkatalogs erstellt. Eine vollständige oder fehlerfreie Wiedergabe wird nicht garantiert. Einzelne Bilder können fehlen, abweichen oder nachträglich ergänzt werden. Der Inhalt der App gibt möglicherweise nicht die jeweils aktuelle Fassung des Fragenkatalogs wieder. Die allein verbindliche und aktuelle Fassung ist über die offiziellen Kanäle des BAMF abrufbar (www.bamf.de).
+Die in der App enthaltenen Fragen wurden auf Grundlage des öffentlich zugänglichen BAMF-Fragenkatalogs erstellt. Eine vollständige oder fehlerfreie Wiedergabe wird nicht garantiert. Einzelne Bilder können fehlen, abweichen oder nachträglich ergänzt werden. Der Inhalt der App gibt möglicherweise nicht die jeweils aktuelle Fassung des Fragenkatalogs wieder. Die allein verbindliche und aktuelle Fassung ist über die offiziellen Kanäle des BAMF abrufbar <https://www.bamf.de/DE/Themen/Integration/ZugewanderteTeilnehmende/OnlineTestcenter/online-testcenter-node.html>.
 
 ### 3. KI-generierte Übersetzungen (AI Disclaimer)
 
@@ -62,7 +62,7 @@ These Terms of Use apply to the use of the mobile application "310: Leben in DE 
 
 This app is a private project and has **no** legal or organizational connection to the Federal Office for Migration and Refugees (BAMF) or any other government body. The app uses the official, publicly available question catalog for the "Leben in Deutschland" test but does not constitute an official examination or preparation tool.
 
-The questions included in the app are based on the publicly available BAMF question catalog. Complete or error-free reproduction is not guaranteed. Individual images may be missing, differ from the original, or be added at a later date. The app content may not reflect the most current version of the question catalog. The sole authoritative and up-to-date version is available through the official BAMF channels (www.bamf.de).
+The questions included in the app are based on the publicly available BAMF question catalog. Complete or error-free reproduction is not guaranteed. Individual images may be missing, differ from the original, or be added at a later date. The app content may not reflect the most current version of the question catalog. The sole authoritative and up-to-date version is available through the official BAMF channels <https://www.bamf.de/DE/Themen/Integration/ZugewanderteTeilnehmende/OnlineTestcenter/online-testcenter-node.html>.
 
 ### 3. AI-Generated Translations (AI Disclaimer)
 
