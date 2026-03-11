@@ -16,5 +16,6 @@ Legal documents for the mobile application **310: Leben in DE (100+ Lang)**.
 * **[Impressum / Legal Notice](./impressum_DE_EN)**
     *Anbieterkennzeichnung gemäß § 5 DDG / Provider identification according to German law.*
 
+Support: [job.48app@gmail.com](mailto:job.48app@gmail.com)
 ---
 © 2026 Igor Semenov. Alle Rechte vorbehalten / All rights reserved.
